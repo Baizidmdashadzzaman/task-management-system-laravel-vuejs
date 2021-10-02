@@ -1,4 +1,4 @@
-# Task management system system Laravel 8 and Vue js  
+# Task management system Laravel 8 and Vue js  
 
 This is a simple task management system build using laravel and vue js.
 
@@ -6,7 +6,6 @@ Screenshot:
 
 ![image](1.PNG?raw=true "image")
 
-Comes with dark mode
 ![image](2.PNG?raw=true "image")
 
 ![image](3.PNG?raw=true "image")
@@ -45,7 +44,7 @@ $ import data base from sql/task_management.sql in ypur php myadmin
 $ php artisan serve
 ```
 
-after that you can manege your daily task by visiting http://127.0.0.1:8000/
+after that you can manage your daily task by visiting http://127.0.0.1:8000/
 
 ### <a href="http://baizidmdashadzzaman.com/">LIVE DEMO</a>
 
